@@ -82,7 +82,7 @@
         "Description": "Allows you to preset your last will for games.",
         "HarmonyID": "tubaantics.willpresets",
         "Version": "1.0.0",
-        "DLLName": "GameLogs.dll",
+        "DLLName": "WillPresets.dll",
         "ThumbnailPath": "tubaantics.willpresets.png",
         "PublishTime": 1691168400,
         "DownloadCount": 0,
