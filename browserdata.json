@@ -1,0 +1,92 @@
+[
+    {
+        "Name": "Night Time Menus",
+        "Authors": [
+            "Curtis"
+        ],
+        "Description": "This mod sets all your menus to Night Time.",
+        "HarmonyID": "curtis.day.night.sync",
+        "Version": "1.0.0",
+        "DLLName": "DayNight.dll",
+        "ThumbnailPath": "curtis.day.night.sync.jpg",
+        "PublishTime": 1691168400,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    },
+    {
+        "Name": "Fancy Chat",
+        "Authors": [
+            "TubaAntics"
+        ],
+        "Description": "Adds Fancy Chat to the game",
+        "HarmonyID": "tubaantics.fancychat",
+        "Version": "1.0.0",
+        "DLLName": "FancyChat.dll",
+        "ThumbnailPath": "tubaantics.fancychat.jpg",
+        "PublishTime": 1691168400,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    },
+    {
+        "Name": "Colored Nametags",
+        "Authors": [
+            "TubaAntics"
+        ],
+        "Description": "Adds your role color and role icon to your character nametag in game.",
+        "HarmonyID": "tubaantics.colorednametags",
+        "Version": "1.0.0",
+        "DLLName": "ColoredNametags.dll",
+        "ThumbnailPath": "tubaantics.colorednametags.jpg",
+        "PublishTime": 1691168400,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    },
+    {
+        "Name": "Town Traitor Mode",
+        "Authors": [
+            "TubaAntics"
+        ],
+        "Description": "Adds Town Traitor gamemode queue to the game.",
+        "HarmonyID": "tubaantics.ttmode",
+        "Version": "1.0.0",
+        "DLLName": "TTPlugin.dll",
+        "ThumbnailPath": "tubaantics.ttmode.png",
+        "PublishTime": 1691168400,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    },
+    {
+        "Name": "Game Logs",
+        "Authors": [
+            "TubaAntics"
+        ],
+        "Description": "Generates game logs after each game you played and saves them to your game directory.",
+        "HarmonyID": "tubaantics.gamelogs",
+        "Version": "1.0.0",
+        "DLLName": "GameLogs.dll",
+        "ThumbnailPath": "tubaantics.gamelogs.png",
+        "PublishTime": 1691168400,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    },
+    {
+        "Name": "Last Will Presets",
+        "Authors": [
+            "TubaAntics"
+        ],
+        "Description": "Allows you to preset your last will for games.",
+        "HarmonyID": "tubaantics.willpresets",
+        "Version": "1.0.0",
+        "DLLName": "GameLogs.dll",
+        "ThumbnailPath": "tubaantics.gamelogs.png",
+        "PublishTime": 1691168400,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    }
+]
