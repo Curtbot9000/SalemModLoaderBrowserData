@@ -1,5 +1,20 @@
 [
     {
+        "Name": "Roledecks",
+        "Authors": [
+            "Curtis"
+        ],
+        "Description": "Create and save roledecks in Custom, allowing you to instantly load your favourite lists!",
+        "HarmonyID": "curtis.roledecks",
+        "Version": "1.0.0",
+        "DLLName": "Roledecks.dll",
+        "ThumbnailPath": "curtis.roledecks.png",
+        "PublishTime": 1691224560,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    },
+    {
         "Name": "Night Time Menus",
         "Authors": [
             "Curtis"
