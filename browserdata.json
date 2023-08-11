@@ -24,7 +24,7 @@
         "Version": "1.0.0",
         "DLLName": "DayNight.dll",
         "ThumbnailPath": "curtis.day.night.sync.jpg",
-        "PublishTime": 1691168400,
+        "PublishTime": 1691224560,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
@@ -36,10 +36,10 @@
         ],
         "Description": "Adds Fancy Chat to the game",
         "HarmonyID": "tubaantics.fancychat",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "DLLName": "FancyChat.dll",
         "ThumbnailPath": "tubaantics.fancychat.jpg",
-        "PublishTime": 1691168400,
+        "PublishTime": 1691747400,
         "DownloadCount": 0,
         "Outdated": true,
         "Banned": false
@@ -47,14 +47,15 @@
     {
         "Name": "Colored Nametags",
         "Authors": [
-            "TubaAntics"
+            "TubaAntics",
+            "Curtis"
         ],
-        "Description": "Adds your role color and role icon to your character nametag in game.",
+        "Description": "Adds further customization to your nametags in-game.",
         "HarmonyID": "tubaantics.colorednametags",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "DLLName": "ColoredNametags.dll",
         "ThumbnailPath": "tubaantics.colorednametags.jpg",
-        "PublishTime": 1691168400,
+        "PublishTime": 1691747400,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
@@ -66,10 +67,10 @@
         ],
         "Description": "Adds Town Traitor gamemode queue to the game.",
         "HarmonyID": "tubaantics.ttmode",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "DLLName": "TTPlugin.dll",
         "ThumbnailPath": "tubaantics.ttmode.png",
-        "PublishTime": 1691168400,
+        "PublishTime": 1691747400,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
@@ -81,10 +82,10 @@
         ],
         "Description": "Generates game logs after each game you played and saves them to your game directory.",
         "HarmonyID": "tubaantics.gamelogs",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "DLLName": "GameLogs.dll",
         "ThumbnailPath": "tubaantics.gamelogs.png",
-        "PublishTime": 1691168400,
+        "PublishTime": 1691747400,
         "DownloadCount": 0,
         "Outdated": true,
         "Banned": false
@@ -94,12 +95,12 @@
         "Authors": [
             "TubaAntics"
         ],
-        "Description": "Allows you to preset your last will for games.",
+        "Description": "Allows you to preset your last will for games. You can use %role% to put your role tagged as #role, %randomrole% to give you a random Town role, %name% to put your name tagged as @name, %subalign% to put your alignment , %ti% %tk% %tp% %ts% %tpow% %rt% %ne% %na% %nk% %cpow% %ck% %cu% %cd% for alignments.",
         "HarmonyID": "tubaantics.willpresets",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "DLLName": "WillPresets.dll",
         "ThumbnailPath": "tubaantics.willpresets.png",
-        "PublishTime": 1691168400,
+        "PublishTime": 1691747400,
         "DownloadCount": 0,
         "Outdated": true,
         "Banned": false
