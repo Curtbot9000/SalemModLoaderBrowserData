@@ -15,16 +15,16 @@
         "Banned": false
     },
     {
-        "Name": "Night Time Menus",
+        "Name": "Day/Night Controller",
         "Authors": [
             "Curtis"
         ],
-        "Description": "This mod sets all your menus to Night Time.",
+        "Description": "Allows you to sync your in-game time to realtime, set your time to be permanently night and flip your in-game time (appears night at day, day at night)",
         "HarmonyID": "curtis.day.night.sync",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "DLLName": "DayNight.dll",
         "ThumbnailPath": "curtis.day.night.sync.jpg",
-        "PublishTime": 1691224560,
+        "PublishTime": 1691757600,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
