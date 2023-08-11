@@ -41,7 +41,7 @@
         "ThumbnailPath": "tubaantics.fancychat.jpg",
         "PublishTime": 1691168400,
         "DownloadCount": 0,
-        "Outdated": false,
+        "Outdated": true,
         "Banned": false
     },
     {
@@ -86,7 +86,7 @@
         "ThumbnailPath": "tubaantics.gamelogs.png",
         "PublishTime": 1691168400,
         "DownloadCount": 0,
-        "Outdated": false,
+        "Outdated": true,
         "Banned": false
     },
     {
@@ -101,7 +101,7 @@
         "ThumbnailPath": "tubaantics.willpresets.png",
         "PublishTime": 1691168400,
         "DownloadCount": 0,
-        "Outdated": false,
+        "Outdated": true,
         "Banned": false
     }
 ]
