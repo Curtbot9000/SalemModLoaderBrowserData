@@ -82,10 +82,10 @@
         ],
         "Description": "Generates game logs after each game you played and saves them to your game directory.",
         "HarmonyID": "tubaantics.gamelogs",
-        "Version": "1.1.0",
+        "Version": "1.1.1",
         "DLLName": "GameLogs.dll",
         "ThumbnailPath": "tubaantics.gamelogs.png",
-        "PublishTime": 1691747400,
+        "PublishTime": 1691878020,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
