@@ -87,7 +87,7 @@
         "ThumbnailPath": "tubaantics.gamelogs.png",
         "PublishTime": 1692304500,
         "DownloadCount": 0,
-        "Outdated": false,
+        "Outdated": true,
         "Banned": false
     },
     {
@@ -102,7 +102,7 @@
         "ThumbnailPath": "tubaantics.willpresets.png",
         "PublishTime": 1692304500,
         "DownloadCount": 0,
-        "Outdated": false,
+        "Outdated": true,
         "Banned": false
     }
 ]
