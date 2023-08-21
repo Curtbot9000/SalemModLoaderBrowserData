@@ -41,7 +41,7 @@
         "ThumbnailPath": "tubaantics.fancychat.jpg",
         "PublishTime": 1691878260,
         "DownloadCount": 0,
-        "Outdated": false,
+        "Outdated": true,
         "Banned": false
     },
     {
@@ -57,7 +57,7 @@
         "ThumbnailPath": "tubaantics.colorednametags.jpg",
         "PublishTime": 1691747400,
         "DownloadCount": 0,
-        "Outdated": false,
+        "Outdated": true,
         "Banned": false
     },
     {
