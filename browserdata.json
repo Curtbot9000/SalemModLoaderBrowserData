@@ -97,12 +97,12 @@
         ],
         "Description": "Allows you to preset your last will for games. You can use %role% to put your role tagged as #role, %randomrole% to give you a random Town role, %name% to put your name tagged as @name, %subalign% to put your alignment , %ti% %tk% %tp% %ts% %tpow% %rt% %ne% %na% %nk% %cpow% %ck% %cu% %cd% for alignments.",
         "HarmonyID": "tubaantics.willpresets",
-        "Version": "1.1.1",
+        "Version": "1.1.2",
         "DLLName": "WillPresets.dll",
         "ThumbnailPath": "tubaantics.willpresets.png",
-        "PublishTime": 1692304500,
+        "PublishTime": 1692728580,
         "DownloadCount": 0,
-        "Outdated": true,
+        "Outdated": false,
         "Banned": false
     }
 ]
