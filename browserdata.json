@@ -52,10 +52,10 @@
         ],
         "Description": "Adds further customization to your nametags in-game.",
         "HarmonyID": "tubaantics.colorednametags",
-        "Version": "1.1.1",
+        "Version": "1.2.0",
         "DLLName": "ColoredNametags.dll",
         "ThumbnailPath": "tubaantics.colorednametags.jpg",
-        "PublishTime": 1692744240,
+        "PublishTime": 1693143780,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
