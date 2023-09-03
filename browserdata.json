@@ -1,5 +1,20 @@
 [
     {
+        "Name": "Match Replays",
+        "Authors": [
+            "Curtis"
+        ],
+        "Description": "Records replays of your games that can be rewatched live in-game. Control your replays with features such as speeding up in-game time, revealing all roles and pausing the replay.",
+        "HarmonyID": "curtis.match.replays",
+        "Version": "1.0.0",
+        "DLLName": "MatchReplays.dll",
+        "ThumbnailPath": "curtis.match.replays.png",
+        "PublishTime": 1693783380,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    },
+    {
         "Name": "Roledecks",
         "Authors": [
             "Curtis"
