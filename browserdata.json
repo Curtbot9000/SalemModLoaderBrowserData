@@ -1,5 +1,20 @@
 [
     {
+        "Name": "Text Editor",
+        "Authors": [
+            "Curtis"
+        ],
+        "Description": "Allows you to dump, edit and load the game's strings easily. Any stringtables placed into the \"Custom\" folder will be loaded instead of the game's version.",
+        "HarmonyID": "curtis.text.editor",
+        "Version": "1.0.0",
+        "DLLName": "TextEditor.dll",
+        "ThumbnailPath": "curtis.text.editor.png",
+        "PublishTime": 1694116380,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    },
+    {
         "Name": "Match Replays",
         "Authors": [
             "Curtis"
