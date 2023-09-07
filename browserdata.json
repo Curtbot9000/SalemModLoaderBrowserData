@@ -36,10 +36,10 @@
         ],
         "Description": "This mod allows for the customization of all music and sounds of the game. Join <color=blue>https://discord.gg/ht8ttc3R8E</color> for a explanation on how soundpacks work.",
         "HarmonyID": "JAN.soundpacks",
-        "Version": "1.1.0",
+        "Version": "1.2.0",
         "DLLName": "SoundpackModTheSequel.dll",
         "ThumbnailPath": "JAN.soundpacks.png",
-        "PublishTime": 1693880520,
+        "PublishTime": 1694122140,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
