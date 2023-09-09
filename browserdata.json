@@ -1,5 +1,20 @@
 [
     {
+        "Name": "Colour Swapper",
+        "Authors": [
+            "Curtis"
+        ],
+        "Description": "Allows you to change the color of every faction in the game",
+        "HarmonyID": "curtis.colour.swapper",
+        "Version": "1.0.0",
+        "DLLName": "ColorSwapper.dll",
+        "ThumbnailPath": "curtis.colour.swapper.png",
+        "PublishTime": 1694300040,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    },
+    {
         "Name": "Text Editor",
         "Authors": [
             "Curtis"
