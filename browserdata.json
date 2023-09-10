@@ -9,7 +9,22 @@
         "Version": "1.0.0",
         "DLLName": "ColorSwapper.dll",
         "ThumbnailPath": "curtis.colour.swapper.png",
-        "PublishTime": 1694300040,
+        "PublishTime": 1694303340,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    },
+    {
+        "Name": "Day Events Messages",
+        "Authors": [
+            "JAN"
+        ],
+        "Description": "Adds a message to chat when a day killing occurs.",
+        "HarmonyID": "JAN.dayeventmessages",
+        "Version": "1.0.0",
+        "DLLName": "DayEventMessage.dll",
+        "ThumbnailPath": "JAN.dayeventmessages.png",
+        "PublishTime": 1694303340,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
@@ -54,7 +69,7 @@
         "Version": "1.2.5",
         "DLLName": "SoundpackModTheSequel.dll",
         "ThumbnailPath": "JAN.soundpacks.png",
-        "PublishTime": 1694301120,
+        "PublishTime": 1694303340,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
