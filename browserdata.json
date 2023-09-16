@@ -81,10 +81,10 @@
         ],
         "Description": "Create and save roledecks in Custom, allowing you to instantly load your favourite lists!",
         "HarmonyID": "curtis.roledecks",
-        "Version": "1.0.0",
+        "Version": "1.0.1",
         "DLLName": "Roledecks.dll",
         "ThumbnailPath": "curtis.roledecks.png",
-        "PublishTime": 1691224560,
+        "PublishTime": 1694867640,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
