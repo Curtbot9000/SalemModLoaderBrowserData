@@ -1,5 +1,20 @@
 [
     {
+        "Name": "Favorite n Random Cosmetics",
+        "Authors": [
+            "JAN"
+        ],
+        "Description": "Allows for the easy randomization of only certain cosmetics through the favorite system, just right-click them in the Personalize page. Also allowing to only randomize the categories you want.",
+        "HarmonyID": "JAN.favoritenrandom",
+        "Version": "0.9.0",
+        "DLLName": "FavoriteNRandomCosmetics2.dll",
+        "ThumbnailPath": "JAN.favoritenrandom.png",
+        "PublishTime": 1695246300,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    },
+    {
         "Name": "Colour Swapper",
         "Authors": [
             "Curtis"
