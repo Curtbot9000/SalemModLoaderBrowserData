@@ -157,10 +157,10 @@
         ],
         "Description": "Adds Town Traitor gamemode queue to the game.",
         "HarmonyID": "tubaantics.ttmode",
-        "Version": "1.1.1",
+        "Version": "1.1.2",
         "DLLName": "TTPlugin.dll",
         "ThumbnailPath": "tubaantics.ttmode.png",
-        "PublishTime": 1691757060,
+        "PublishTime": 1695749220,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
