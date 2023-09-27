@@ -194,5 +194,20 @@
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
+    },
+    {
+        "Name": "Auto GG",
+        "Authors": [
+            "VoidBehemoth"
+        ],
+        "Description": "For when being a good sport is too hard.",
+        "HarmonyID": "voidbehemoth.autogg",
+        "Version": "1.0.0",
+        "DLLName": "AutoGG.dll",
+        "ThumbnailPath": "voidbehemoth.autogg.png",
+        "PublishTime": 1695797820,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
     }
 ]
