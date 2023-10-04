@@ -66,10 +66,10 @@
         ],
         "Description": "Records replays of your games that can be rewatched live in-game. Control your replays with features such as speeding up in-game time, revealing all roles and pausing the replay.",
         "HarmonyID": "curtis.match.replays",
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "DLLName": "MatchReplays.dll",
         "ThumbnailPath": "curtis.match.replays.png",
-        "PublishTime": 1693783380,
+        "PublishTime": 1696457400,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
@@ -206,6 +206,20 @@
         "DLLName": "AutoGG.dll",
         "ThumbnailPath": "voidbehemoth.autogg.png",
         "PublishTime": 1695797820,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    },{
+        "Name": "Movable Wills",
+        "Authors": [
+            "JAN"
+        ],
+        "Description": "Drag the top part of your will/notes/death note to move them!",
+        "HarmonyID": "JAN.movablewills",
+        "Version": "1.0.0",
+        "DLLName": "MovableWills.dll",
+        "ThumbnailPath": "JAN.movablewills.png",
+        "PublishTime": 1696457400,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
