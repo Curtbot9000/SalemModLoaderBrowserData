@@ -36,10 +36,10 @@
         ],
         "Description": "Adds a message to chat when a day killing occurs.",
         "HarmonyID": "JAN.dayeventmessages",
-        "Version": "1.0.1",
+        "Version": "1.1.0",
         "DLLName": "DayEventMessage.dll",
         "ThumbnailPath": "JAN.dayeventmessages.png",
-        "PublishTime": 1694385540,
+        "PublishTime": 1697413260,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
