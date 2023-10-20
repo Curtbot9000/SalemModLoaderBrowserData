@@ -209,7 +209,8 @@
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
-    },{
+    },
+    {
         "Name": "Movable Wills",
         "Authors": [
             "JAN"
@@ -220,6 +221,36 @@
         "DLLName": "MovableWills.dll",
         "ThumbnailPath": "JAN.moveablewills.png",
         "PublishTime": 1696457400,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    },
+    {
+        "Name": "Discord Rich Presence",
+        "Authors": [
+            "TubaAntics"
+        ],
+        "Description": "Adds Discord Rich Presence to the game. Does NOT work on Mac for now.",
+        "HarmonyID": "tubaantics.discordrpc",
+        "Version": "1.0.0",
+        "DLLName": "DiscordRichPresence.dll",
+        "ThumbnailPath": "tubaantics.discordrpc.png",
+        "PublishTime": 1697830020,
+        "DownloadCount": 0,
+        "Outdated": false,
+        "Banned": false
+    },
+    {
+        "Name": "Auto Accept Ranked Queue",
+        "Authors": [
+            "VoidBehemoth"
+        ],
+        "Description": "Automatically accepts the ranked queue confirmation message when enabled.",
+        "HarmonyID": "voidbehemoth.AutoAcceptRanked",
+        "Version": "1.0.0",
+        "DLLName": "AutoAcceptRanked.dll",
+        "ThumbnailPath": "voidbehemoth.AutoAcceptRanked.png",
+        "PublishTime": 1697830020,
         "DownloadCount": 0,
         "Outdated": false,
         "Banned": false
