@@ -1,258 +1,273 @@
 [
-    {
-        "Name": "Favorite n Random Cosmetics",
-        "Authors": [
-            "JAN"
-        ],
-        "Description": "Allows for the easy randomization of only certain cosmetics through the favorite system, just right-click them in the Personalize page. Also allowing to only randomize the categories you want.",
-        "HarmonyID": "JAN.favoritenrandom",
-        "Version": "0.9.0",
-        "DLLName": "FavoriteNRandomCosmetics2.dll",
-        "ThumbnailPath": "JAN.favoritenrandom.png",
-        "PublishTime": 1695246300,
-        "DownloadCount": 0,
-        "Outdated": true,
-        "Banned": false
-    },
-    {
-        "Name": "Colour Swapper",
-        "Authors": [
-            "Curtis"
-        ],
-        "Description": "Allows you to change the color of every faction in the game",
-        "HarmonyID": "curtis.colour.swapper",
-        "Version": "1.0.1",
-        "DLLName": "ColorSwapper.dll",
-        "ThumbnailPath": "curtis.colour.swapper.png",
-        "PublishTime": 1694383440,
-        "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
-    },
-    {
-        "Name": "Day Events Messages",
-        "Authors": [
-            "JAN"
-        ],
-        "Description": "Adds a message to chat when a day killing occurs.",
-        "HarmonyID": "JAN.dayeventmessages",
-        "Version": "1.1.0",
-        "DLLName": "DayEventMessage.dll",
-        "ThumbnailPath": "JAN.dayeventmessages.png",
-        "PublishTime": 1697413260,
-        "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
-    },
-    {
-        "Name": "Text Editor",
-        "Authors": [
-            "Curtis"
-        ],
-        "Description": "Allows you to dump, edit and load the game's strings easily. Any stringtables placed into the \"Custom\" folder will be loaded instead of the game's version.",
-        "HarmonyID": "curtis.text.editor",
-        "Version": "1.1.0",
-        "DLLName": "TextEditor.dll",
-        "ThumbnailPath": "curtis.text.editor.png",
-        "PublishTime": 1694881680,
-        "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
-    },
-    {
-        "Name": "Match Replays",
-        "Authors": [
-            "Curtis"
-        ],
-        "Description": "Records replays of your games that can be rewatched live in-game. Control your replays with features such as speeding up in-game time, revealing all roles and pausing the replay.",
-        "HarmonyID": "curtis.match.replays",
-        "Version": "1.1.2",
-        "DLLName": "MatchReplays.dll",
-        "ThumbnailPath": "curtis.match.replays.png",
-        "PublishTime": 1697235720,
-        "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
-    },
-    {
-        "Name": "The Soundpack Mod",
-        "Authors": [
-            "JAN"
-        ],
-        "Description": "This mod allows for the customization of all music and sounds of the game. Join <color=blue>https://discord.gg/ht8ttc3R8E</color> for a explanation on how soundpacks work.",
-        "HarmonyID": "JAN.soundpacks",
-        "Version": "1.2.5",
-        "DLLName": "SoundpackModTheSequel.dll",
-        "ThumbnailPath": "JAN.soundpacks.png",
-        "PublishTime": 1694303340,
-        "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
-    },
-    {
-        "Name": "Roledecks",
-        "Authors": [
-            "Curtis"
-        ],
-        "Description": "Create and save roledecks in Custom, allowing you to instantly load your favourite lists!",
-        "HarmonyID": "curtis.roledecks",
-        "Version": "1.0.1",
-        "DLLName": "Roledecks.dll",
-        "ThumbnailPath": "curtis.roledecks.png",
-        "PublishTime": 1694867640,
-        "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
-    },
-    {
-        "Name": "Sky Controller",
-        "Authors": [
-            "Curtis"
-        ],
-        "Description": "Allows you to customize the sky on all your maps, with bonus settings such as syncing to realtime",
-        "HarmonyID": "curtis.day.night.sync",
-        "Version": "2.1.2",
-        "DLLName": "DayNight.dll",
-        "ThumbnailPath": "curtis.day.night.sync.png",
-        "PublishTime": 1696561680,
-        "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
-    },
-    {
-        "Name": "Fancy Chat",
-        "Authors": [
-            "TubaAntics"
-        ],
-        "Description": "Adds Fancy Chat to the game",
-        "HarmonyID": "tubaantics.fancychat",
-        "Version": "1.2.2",
-        "DLLName": "FancyChat.dll",
-        "ThumbnailPath": "tubaantics.fancychat.jpg",
-        "PublishTime": 1696694340,
-        "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
-    },
-    {
-        "Name": "Colored Nametags",
-        "Authors": [
-            "TubaAntics",
-            "Curtis"
-        ],
-        "Description": "Adds further customization to your nametags in-game.",
-        "HarmonyID": "tubaantics.colorednametags",
-        "Version": "1.2.1",
-        "DLLName": "ColoredNametags.dll",
-        "ThumbnailPath": "tubaantics.colorednametags.png",
-        "PublishTime": 1693143780,
-        "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
-    },
-    {
-        "Name": "Town Traitor Mode",
-        "Authors": [
-            "TubaAntics"
-        ],
-        "Description": "Adds Town Traitor gamemode queue to the game.",
-        "HarmonyID": "tubaantics.ttmode",
-        "Version": "1.1.2",
-        "DLLName": "TTPlugin.dll",
-        "ThumbnailPath": "tubaantics.ttmode.png",
-        "PublishTime": 1695749220,
-        "DownloadCount": 0,
-        "Outdated": true,
-        "Banned": false
-    },
-    {
-        "Name": "Game Logs",
-        "Authors": [
-            "TubaAntics"
-        ],
-        "Description": "Generates game logs after each game you played and saves them to your game directory.",
-        "HarmonyID": "tubaantics.gamelogs",
-        "Version": "1.2",
-        "DLLName": "GameLogs.dll",
-        "ThumbnailPath": "tubaantics.gamelogs.png",
-        "PublishTime": 1696280100,
-        "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
-    },
-    {
-        "Name": "Last Will Presets",
-        "Authors": [
-            "TubaAntics"
-        ],
-        "Description": "Allows you to preset your last will for games. You can use %role% to put your role tagged as #role, %randomrole% to give you a random Town role, %name% to put your name tagged as @name, %subalign% to put your alignment , %ti% %tk% %tp% %ts% %tpow% %rt% %ne% %na% %nk% %cpow% %ck% %cu% %cd% for alignments.",
-        "HarmonyID": "tubaantics.willpresets",
-        "Version": "1.1.2",
-        "DLLName": "WillPresets.dll",
-        "ThumbnailPath": "tubaantics.willpresets.png",
-        "PublishTime": 1692728580,
-        "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
-    },
-    {
-        "Name": "Auto GG",
-        "Authors": [
-            "VoidBehemoth"
-        ],
-        "Description": "For when being a good sport is too hard.",
-        "HarmonyID": "voidbehemoth.autogg",
-        "Version": "1.0.0",
-        "DLLName": "AutoGG.dll",
-        "ThumbnailPath": "voidbehemoth.autogg.png",
-        "PublishTime": 1695797820,
-        "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
-    },
-    {
-        "Name": "Movable Wills",
-        "Authors": [
-            "JAN"
-        ],
-        "Description": "Drag the top part of your will/notes/death note to move them!",
-        "HarmonyID": "JAN.movablewills",
-        "Version": "1.0.0",
-        "DLLName": "MovableWills.dll",
-        "ThumbnailPath": "JAN.moveablewills.png",
-        "PublishTime": 1696457400,
-        "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
-    },
-    {
-        "Name": "Discord Rich Presence",
-        "Authors": [
-            "TubaAntics"
-        ],
-        "Description": "Adds Discord Rich Presence to the game. Does NOT work on Mac for now.",
-        "HarmonyID": "tubaantics.discordrpc",
-        "Version": "1.0.0",
-        "DLLName": "DiscordRichPresence.dll",
-        "ThumbnailPath": "tubaantics.discordrpc.png",
-        "PublishTime": 1697830020,
-        "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
-    },
-    {
-        "Name": "Auto Accept Ranked Queue",
-        "Authors": [
-            "VoidBehemoth"
-        ],
-        "Description": "Automatically accepts the ranked queue confirmation message when enabled.",
-        "HarmonyID": "voidbehemoth.AutoAcceptRanked",
-        "Version": "1.0.0",
-        "DLLName": "AutoAcceptRanked.dll",
-        "ThumbnailPath": "voidbehemoth.AutoAcceptRanked.png",
-        "PublishTime": 1697830020,
-        "DownloadCount": 0,
-        "Outdated": false,
-        "Banned": false
-    }
+  {
+    "Name": "Favorite n Random Cosmetics",
+    "Authors": [
+      "JAN"
+    ],
+    "Description": "Allows for the easy randomization of only certain cosmetics through the favorite system, just right-click them in the Personalize page. Also allowing to only randomize the categories you want.",
+    "HarmonyID": "JAN.favoritenrandom",
+    "Version": "1.0.1",
+    "DLLName": "FavoriteNRandomCosmetics2.dll",
+    "ThumbnailPath": "JAN.favoritenrandom.png",
+    "PublishTime": 1698548400,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Colour Swapper",
+    "Authors": [
+      "Curtis"
+    ],
+    "Description": "Allows you to change the color of every faction in the game",
+    "HarmonyID": "curtis.colour.swapper",
+    "Version": "1.0.1",
+    "DLLName": "ColorSwapper.dll",
+    "ThumbnailPath": "curtis.colour.swapper.png",
+    "PublishTime": 1694383440,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Day Events Messages",
+    "Authors": [
+      "JAN"
+    ],
+    "Description": "Adds a message to chat when a day killing occurs.",
+    "HarmonyID": "JAN.dayeventmessages",
+    "Version": "1.1.0",
+    "DLLName": "DayEventMessage.dll",
+    "ThumbnailPath": "JAN.dayeventmessages.png",
+    "PublishTime": 1697413260,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Text Editor",
+    "Authors": [
+      "Curtis"
+    ],
+    "Description": "Allows you to dump, edit and load the game's strings easily. Any stringtables placed into the \"Custom\" folder will be loaded instead of the game's version.",
+    "HarmonyID": "curtis.text.editor",
+    "Version": "1.1.0",
+    "DLLName": "TextEditor.dll",
+    "ThumbnailPath": "curtis.text.editor.png",
+    "PublishTime": 1694881680,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Match Replays",
+    "Authors": [
+      "Curtis"
+    ],
+    "Description": "Records replays of your games that can be rewatched live in-game. Control your replays with features such as speeding up in-game time, revealing all roles and pausing the replay.",
+    "HarmonyID": "curtis.match.replays",
+    "Version": "1.1.2",
+    "DLLName": "MatchReplays.dll",
+    "ThumbnailPath": "curtis.match.replays.png",
+    "PublishTime": 1697235720,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "The Soundpack Mod",
+    "Authors": [
+      "JAN"
+    ],
+    "Description": "This mod allows for the customization of all music and sounds of the game. Join <color=blue>https://discord.gg/ht8ttc3R8E</color> for a explanation on how soundpacks work.",
+    "HarmonyID": "JAN.soundpacks",
+    "Version": "1.2.5",
+    "DLLName": "SoundpackModTheSequel.dll",
+    "ThumbnailPath": "JAN.soundpacks.png",
+    "PublishTime": 1694303340,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Roledecks",
+    "Authors": [
+      "Curtis"
+    ],
+    "Description": "Create and save roledecks in Custom, allowing you to instantly load your favourite lists!",
+    "HarmonyID": "curtis.roledecks",
+    "Version": "1.0.1",
+    "DLLName": "Roledecks.dll",
+    "ThumbnailPath": "curtis.roledecks.png",
+    "PublishTime": 1694867640,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Sky Controller",
+    "Authors": [
+      "Curtis"
+    ],
+    "Description": "Allows you to customize the sky on all your maps, with bonus settings such as syncing to realtime",
+    "HarmonyID": "curtis.day.night.sync",
+    "Version": "2.1.2",
+    "DLLName": "DayNight.dll",
+    "ThumbnailPath": "curtis.day.night.sync.png",
+    "PublishTime": 1696561680,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Fancy Chat",
+    "Authors": [
+      "TubaAntics"
+    ],
+    "Description": "Adds Fancy Chat to the game",
+    "HarmonyID": "tubaantics.fancychat",
+    "Version": "1.2.2",
+    "DLLName": "FancyChat.dll",
+    "ThumbnailPath": "tubaantics.fancychat.jpg",
+    "PublishTime": 1696694340,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Colored Nametags",
+    "Authors": [
+      "TubaAntics",
+      "Curtis"
+    ],
+    "Description": "Adds further customization to your nametags in-game.",
+    "HarmonyID": "tubaantics.colorednametags",
+    "Version": "1.2.1",
+    "DLLName": "ColoredNametags.dll",
+    "ThumbnailPath": "tubaantics.colorednametags.png",
+    "PublishTime": 1693143780,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Town Traitor Mode",
+    "Authors": [
+      "TubaAntics"
+    ],
+    "Description": "Adds Town Traitor gamemode queue to the game.",
+    "HarmonyID": "tubaantics.ttmode",
+    "Version": "1.1.2",
+    "DLLName": "TTPlugin.dll",
+    "ThumbnailPath": "tubaantics.ttmode.png",
+    "PublishTime": 1695749220,
+    "DownloadCount": 0,
+    "Outdated": true,
+    "Banned": false
+  },
+  {
+    "Name": "Game Logs",
+    "Authors": [
+      "TubaAntics"
+    ],
+    "Description": "Generates game logs after each game you played and saves them to your game directory.",
+    "HarmonyID": "tubaantics.gamelogs",
+    "Version": "1.2",
+    "DLLName": "GameLogs.dll",
+    "ThumbnailPath": "tubaantics.gamelogs.png",
+    "PublishTime": 1696280100,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Last Will Presets",
+    "Authors": [
+      "TubaAntics"
+    ],
+    "Description": "Allows you to preset your last will for games. You can use %role% to put your role tagged as #role, %randomrole% to give you a random Town role, %name% to put your name tagged as @name, %subalign% to put your alignment , %ti% %tk% %tp% %ts% %tpow% %rt% %ne% %na% %nk% %cpow% %ck% %cu% %cd% for alignments.",
+    "HarmonyID": "tubaantics.willpresets",
+    "Version": "1.1.2",
+    "DLLName": "WillPresets.dll",
+    "ThumbnailPath": "tubaantics.willpresets.png",
+    "PublishTime": 1692728580,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Auto GG",
+    "Authors": [
+      "VoidBehemoth"
+    ],
+    "Description": "For when being a good sport is too hard.",
+    "HarmonyID": "voidbehemoth.autogg",
+    "Version": "1.0.0",
+    "DLLName": "AutoGG.dll",
+    "ThumbnailPath": "voidbehemoth.autogg.png",
+    "PublishTime": 1695797820,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Movable Wills",
+    "Authors": [
+      "JAN"
+    ],
+    "Description": "Drag the top part of your will/notes/death note to move them!",
+    "HarmonyID": "JAN.movablewills",
+    "Version": "1.1.0",
+    "DLLName": "MovableWills.dll",
+    "ThumbnailPath": "JAN.moveablewills.png",
+    "PublishTime": 1698548400,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Discord Rich Presence",
+    "Authors": [
+      "TubaAntics"
+    ],
+    "Description": "Adds Discord Rich Presence to the game. Does NOT work on Mac for now.",
+    "HarmonyID": "tubaantics.discordrpc",
+    "Version": "1.0.0",
+    "DLLName": "DiscordRichPresence.dll",
+    "ThumbnailPath": "tubaantics.discordrpc.png",
+    "PublishTime": 1697830020,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Auto Accept Ranked Queue",
+    "Authors": [
+      "VoidBehemoth"
+    ],
+    "Description": "Automatically accepts the ranked queue confirmation message when enabled.",
+    "HarmonyID": "voidbehemoth.AutoAcceptRanked",
+    "Version": "1.0.0",
+    "DLLName": "AutoAcceptRanked.dll",
+    "ThumbnailPath": "voidbehemoth.AutoAcceptRanked.png",
+    "PublishTime": 1697830020,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Improbable Death Animations",
+    "Authors": [
+      "JAN"
+    ],
+    "Description": "Death animations will occur more rarely, which will make you appreciate them more!",
+    "HarmonyID": "JAN.improbabledeadanims",
+    "Version": "1.0.0",
+    "DLLName": "ImprobableDeadAnims.dll",
+    "ThumbnailPath": "JAN.favoritenrandom.png",
+    "PublishTime": 1698548400,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  }
 ]
