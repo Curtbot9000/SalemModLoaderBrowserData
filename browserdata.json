@@ -262,12 +262,27 @@
     ],
     "Description": "Death animations will occur more rarely, which will make you appreciate them more!",
     "HarmonyID": "JAN.improbabledeadanims",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "DLLName": "ImprobableDeadAnims.dll",
     "ThumbnailPath": "JAN.improbabledeadanims.png",
-    "PublishTime": 1698548400,
+    "PublishTime": 1698949920,
     "DownloadCount": 0,
-    "Outdated": true,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Pseudonyms",
+    "Authors": [
+      "VoidBehemoth"
+    ],
+    "Description": "Automatically accepts the ranked queue confirmation message when enabled.",
+    "HarmonyID": "voidbehemoth.pseudonyms",
+    "Version": "1.0.0",
+    "DLLName": "Pseudonyms.dll",
+    "ThumbnailPath": "voidbehemoth.pseudonyms.png",
+    "PublishTime": 1698949920,
+    "DownloadCount": 0,
+    "Outdated": false,
     "Banned": false
   }
 ]
