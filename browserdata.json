@@ -275,7 +275,7 @@
     "Authors": [
       "VoidBehemoth"
     ],
-    "Description": "Automatically accepts the ranked queue confirmation message when enabled.",
+    "Description": "Randomize your in-game name! Find the appropriate files in ModFolders. Delete files to reset names.",
     "HarmonyID": "voidbehemoth.pseudonyms",
     "Version": "1.0.0",
     "DLLName": "Pseudonyms.dll",
