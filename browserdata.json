@@ -56,7 +56,7 @@
     "ThumbnailPath": "curtis.text.editor.png",
     "PublishTime": 1694881680,
     "DownloadCount": 0,
-    "Outdated": false,
+    "Outdated": true,
     "Banned": false
   },
   {
@@ -282,7 +282,7 @@
     "ThumbnailPath": "voidbehemoth.pseudonyms.png",
     "PublishTime": 1698949920,
     "DownloadCount": 0,
-    "Outdated": false,
+    "Outdated": true,
     "Banned": false
   }
 ]
