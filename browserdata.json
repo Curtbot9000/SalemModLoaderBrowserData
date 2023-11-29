@@ -51,10 +51,10 @@
     ],
     "Description": "Allows you to dump, edit and load the game's strings easily. Any stringtables placed into the \"Custom\" folder will be loaded instead of the game's version.",
     "HarmonyID": "curtis.text.editor",
-    "Version": "1.1.0",
+    "Version": "1.1.1",
     "DLLName": "TextEditor.dll",
     "ThumbnailPath": "curtis.text.editor.png",
-    "PublishTime": 1694881680,
+    "PublishTime": 1701219900,
     "DownloadCount": 0,
     "Outdated": true,
     "Banned": false
