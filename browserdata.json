@@ -277,12 +277,12 @@
     ],
     "Description": "Randomize your in-game name! Find the appropriate files in ModFolders. Delete files to reset names.",
     "HarmonyID": "voidbehemoth.pseudonyms",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "DLLName": "Pseudonyms.dll",
     "ThumbnailPath": "voidbehemoth.pseudonyms.png",
-    "PublishTime": 1698949920,
+    "PublishTime": 1701460080,
     "DownloadCount": 0,
-    "Outdated": true,
+    "Outdated": false,
     "Banned": false
   },
   {
