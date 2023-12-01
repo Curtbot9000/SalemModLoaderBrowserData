@@ -284,5 +284,20 @@
     "DownloadCount": 0,
     "Outdated": true,
     "Banned": false
+  },
+  {
+    "Name": "Better Mentions",
+    "Authors": [
+      "JustAnotherNoob"
+    ],
+    "Description": "Enhancements and customizations to the of mentions of the game and their recognition.",
+    "HarmonyID": "JAN.bettermentions",
+    "Version": "1.0.0",
+    "DLLName": "BetterMentions.dll",
+    "ThumbnailPath": "JAN.bettermentions.png",
+    "PublishTime": 1701410760,
+    "DownloadCount": 0,
+    "Outdated": true,
+    "Banned": false
   }
 ]
