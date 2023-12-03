@@ -292,10 +292,10 @@
     ],
     "Description": "Enhancements and customizations to the of mentions of the game and their recognition.",
     "HarmonyID": "JAN.bettermentions",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "DLLName": "BetterMentions.dll",
     "ThumbnailPath": "JAN.bettermentions.png",
-    "PublishTime": 1701410760,
+    "PublishTime": 1701643020,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
