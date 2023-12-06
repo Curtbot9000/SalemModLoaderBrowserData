@@ -202,12 +202,12 @@
     ],
     "Description": "For when being a good sport is too hard.",
     "HarmonyID": "voidbehemoth.autogg",
-    "Version": "1.1.1",
+    "Version": "1.1.2",
     "DLLName": "AutoGG.dll",
     "ThumbnailPath": "voidbehemoth.autogg.png",
-    "PublishTime": 1700686800,
+    "PublishTime": 1701838800,
     "DownloadCount": 0,
-    "Outdated": true,
+    "Outdated": false,
     "Banned": false
   },
   {
