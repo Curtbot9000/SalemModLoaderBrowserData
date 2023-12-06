@@ -81,12 +81,12 @@
     ],
     "Description": "This mod allows for the customization of all music and sounds of the game. Join <color=blue>https://discord.gg/ht8ttc3R8E</color> for a explanation on how soundpacks work.",
     "HarmonyID": "JAN.soundpacks",
-    "Version": "2.0.0",
+    "Version": "2.0.1",
     "DLLName": "SoundpackModTheSequel.dll",
     "ThumbnailPath": "JAN.soundpacks.png",
-    "PublishTime": 1700686800,
+    "PublishTime": 1701838800,
     "DownloadCount": 0,
-    "Outdated": true,
+    "Outdated": false,
     "Banned": false
   },
   {
@@ -296,6 +296,36 @@
     "DLLName": "BetterMentions.dll",
     "ThumbnailPath": "JAN.bettermentions.png",
     "PublishTime": 1701643020,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Icon Packs",
+    "Authors": [
+      "AlchlcSystm"
+    ],
+    "Description": "The mod adds a bit of flair to icons! Credits to MysticMismagius and Nidoskull for the artwork and Pat for coding help!",
+    "HarmonyID": "alchlcsystm.recolors",
+    "Version": "1.0.1",
+    "DLLName": "IconPacks.dll",
+    "ThumbnailPath": "alchlcsystm.recolors.png",
+    "PublishTime": 1701838800,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Chat Emojis",
+    "Authors": [
+      "pat"
+    ],
+    "Description": "Express yourself with emojis! Emojis will be added to the keyword mention system, start by typing ':'.",
+    "HarmonyID": "pat.chatemojis",
+    "Version": "1.0.0",
+    "DLLName": "ChatEmojis.dll",
+    "ThumbnailPath": "pat.chatemojis.png",
+    "PublishTime": 1701838800,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
