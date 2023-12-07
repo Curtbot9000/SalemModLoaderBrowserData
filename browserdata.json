@@ -1,5 +1,20 @@
 [
   {
+    "Name": "The List",
+    "Authors": [
+      "TubaAntics"
+    ],
+    "Description": "Allows you to block other users via adding them to the list. Blocked users names show red in lobby and cannot friend request you. Additionally allows you to disable friend requests.",
+    "HarmonyID": "tubaantics.thelist",
+    "Version": "1.0.0",
+    "DLLName": "TheList.dll",
+    "ThumbnailPath": "tubaantics.thelist.png",
+    "PublishTime": 1701978420,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
     "Name": "Favorite n Random Cosmetics",
     "Authors": [
       "JustAnotherNoob"
