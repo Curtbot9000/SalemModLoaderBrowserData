@@ -6,10 +6,10 @@
     ],
     "Description": "Allows you to block other users via adding them to the list. Blocked users names show red in lobby and cannot friend request you. Additionally allows you to disable friend requests.",
     "HarmonyID": "tubaantics.thelist",
-    "Version": "1.0.1",
+    "Version": "1.0.2",
     "DLLName": "TheList.dll",
     "ThumbnailPath": "tubaantics.thelist.png",
-    "PublishTime": 1702074960,
+    "PublishTime": 1702079220,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
