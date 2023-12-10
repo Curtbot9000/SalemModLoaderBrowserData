@@ -21,7 +21,7 @@
     ],
     "Description": "Allows for the easy randomization of only certain cosmetics through the favorite system, just right-click them in the Personalize page. Also allowing to only randomize the categories you want.",
     "HarmonyID": "JAN.favoritenrandom",
-    "Version": "1.0.1",
+    "Version": "1.0.2",
     "DLLName": "FavoriteNRandomCosmetics2.dll",
     "ThumbnailPath": "JAN.favoritenrandom.png",
     "PublishTime": 1702240560,
