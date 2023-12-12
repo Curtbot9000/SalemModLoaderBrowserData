@@ -322,10 +322,10 @@
     ],
     "Description": "The mod adds a bit of flair to icons! Credits to MysticMismagius and Nidoskull for the artwork and Pat for coding help!",
     "HarmonyID": "alchlcsystm.recolors",
-    "Version": "1.0.1",
+    "Version": "1.1.0",
     "DLLName": "IconPacks.dll",
     "ThumbnailPath": "alchlcsystm.recolors.png",
-    "PublishTime": 1701838800,
+    "PublishTime": 1702383540,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
