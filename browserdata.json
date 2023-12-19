@@ -344,5 +344,20 @@
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
+  },
+  {
+    "Name": "ToS1 UI",
+    "Authors": [
+      "Dum"
+    ],
+    "Description": "Bring back the old town of salem UI for Jailor Pirate and Necromancer",
+    "HarmonyID": "dum.oldui",
+    "Version": "1.2.0",
+    "DLLName": "tos1UI.dll",
+    "ThumbnailPath": "dum.oldui.png",
+    "PublishTime": 1703015580,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
   }
 ]
