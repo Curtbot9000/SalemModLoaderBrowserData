@@ -226,16 +226,16 @@
     "Banned": false
   },
   {
-    "Name": "Movable Wills",
+    "Name": "Will Utilities",
     "Authors": [
       "JustAnotherNoob"
     ],
-    "Description": "Drag the top part of your will/notes/death note to move them!",
+    "Description": "Enhancements towards the wills system of the game, adding systems like moving wills, control-z, auto saving, and more!",
     "HarmonyID": "JAN.movablewills",
-    "Version": "1.1.0",
+    "Version": "2.0.0",
     "DLLName": "MovableWills.dll",
     "ThumbnailPath": "JAN.moveablewills.png",
-    "PublishTime": 1698548400,
+    "PublishTime": 1703282400,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
@@ -320,12 +320,12 @@
     "Authors": [
       "AlchlcSystm"
     ],
-    "Description": "The mod adds a bit of flair to icons! Credits to MysticMismagius and Nidoskull for the artwork and Pat for coding help!",
+    "Description": "The customisation mod for most in-game icons! Credits to MysticMismagius for the icon and Pat for coding help!",
     "HarmonyID": "alchlcsystm.recolors",
-    "Version": "1.1.0",
+    "Version": "2.0.0",
     "DLLName": "IconPacks.dll",
     "ThumbnailPath": "alchlcsystm.recolors.png",
-    "PublishTime": 1702383540,
+    "PublishTime": 1703282400,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
@@ -356,6 +356,21 @@
     "DLLName": "tos1UI.dll",
     "ThumbnailPath": "dum.oldui.png",
     "PublishTime": 1703015580,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Necronomicon's Curse",
+    "Authors": [
+      "AlchlcSystm"
+    ],
+    "Description": "The TOS2 mod where the game's hard because you're cursed by the Necronomicon!",
+    "HarmonyID": "alchlcsystm.cursed",
+    "Version": "1.0.0",
+    "DLLName": "NecronomiconsCurse.dll",
+    "ThumbnailPath": "alchlcsystm.cursed.png",
+    "PublishTime": 1703282400,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
