@@ -307,12 +307,12 @@
     ],
     "Description": "Enhancements and customizations to the of mentions of the game and their recognition.",
     "HarmonyID": "JAN.bettermentions",
-    "Version": "1.0.1",
+    "Version": "1.1.0",
     "DLLName": "BetterMentions.dll",
     "ThumbnailPath": "JAN.bettermentions.png",
-    "PublishTime": 1701643020,
+    "PublishTime": 1705705200,
     "DownloadCount": 0,
-    "Outdated": true,
+    "Outdated": false,
     "Banned": false
   },
   {
@@ -352,10 +352,10 @@
     ],
     "Description": "Bring back ToS1 style ability buttons wherever possible. Necromancer has been removed, to be re-added in future update",
     "HarmonyID": "dum.oldui",
-    "Version": "2.0.0",
+    "Version": "2.1.0",
     "DLLName": "tos1UI.dll",
     "ThumbnailPath": "dum.oldui.png",
-    "PublishTime": 1704204000,
+    "PublishTime": 1705705200,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
@@ -367,10 +367,10 @@
     ],
     "Description": "Removes your ability to look back at information such as other last wills or chatlogs after they have already been presented to you, making the game a memory test.",
     "HarmonyID": "alchlcsystm.cursed",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "DLLName": "NecronomiconsCurse.dll",
     "ThumbnailPath": "alchlcsystm.cursed.png",
-    "PublishTime": 1703282400,
+    "PublishTime": 1705705200,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
@@ -382,10 +382,10 @@
     ],
     "Description": "Automatically rejoins the Ranked queue after you are done with a Ranked Game",
     "HarmonyID": "maxdistructo.AutoRejoinRanked",
-    "Version": "1.0.0",
+    "Version": "1.1.0",
     "DLLName": "AutoRejoinRanked.dll",
     "ThumbnailPath": "maxdistructo.AutoRejoinRanked.png",
-    "PublishTime": 1704204000,
+    "PublishTime": 1705705200,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
@@ -401,6 +401,21 @@
     "DLLName": "0Fixes.dll",
     "ThumbnailPath": "alchlcsystm.fixes.png",
     "PublishTime": 1704204000,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Role Mentions Manager",
+    "Authors": [
+      "JustAnotherNoob"
+    ],
+    "Description": "Allows you to modify the order and the acronyms of the role mentions of the game (and the keywords too if you feel like it). For support join <color=blue>https://discord.gg/ht8ttc3R8E</color>",
+    "HarmonyID": "JAN.rolementionsmanager",
+    "Version": "1.0.0",
+    "DLLName": "RoleMentionsManager.dll",
+    "ThumbnailPath": "JAN.rolementionsmanager.png",
+    "PublishTime": 1705705200,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
