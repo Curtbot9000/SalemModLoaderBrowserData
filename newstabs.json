@@ -4,13 +4,13 @@
     "ThumbnailPath": "BetterTOS2ReleaseArt.png",
     "Link": "B/BetterTOS2",
     "ShowAfter": 1706292000,
-    "ShowBefore": null
+    "ShowBefore": 0
   },
   {
     "Title": "Modloader Updates!",
     "ThumbnailPath": "WeeklyBetterTOS2Discussions.png",
     "Link": "L/https://www.twitch.tv/tubaantics",
-    "ShowAfter": null,
-    "ShowBefore": null
+    "ShowAfter": 0,
+    "ShowBefore": 0
   }
 ]
