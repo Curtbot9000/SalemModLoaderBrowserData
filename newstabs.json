@@ -3,14 +3,11 @@
     "Title": "BetterTOS2 out now!",
     "ThumbnailPath": "BetterTOS2ReleaseArt.png",
     "Link": "B/BetterTOS2",
-    "ShowAfter": 1706292000,
-    "ShowBefore": 0
+    "ShowAfter": 1706292000
   },
   {
     "Title": "Modloader Updates!",
     "ThumbnailPath": "WeeklyBetterTOS2Discussions.png",
-    "Link": "L/https://www.twitch.tv/tubaantics",
-    "ShowAfter": 0,
-    "ShowBefore": 0
+    "Link": "L/https://www.twitch.tv/tubaantics"
   }
 ]
