@@ -101,7 +101,7 @@
     "ThumbnailPath": "JAN.soundpacks.png",
     "PublishTime": 1702382880,
     "DownloadCount": 0,
-    "Outdated": false,
+    "Outdated": true,
     "Banned": false
   },
   {
@@ -312,7 +312,7 @@
     "ThumbnailPath": "JAN.bettermentions.png",
     "PublishTime": 1705705200,
     "DownloadCount": 0,
-    "Outdated": false,
+    "Outdated": true,
     "Banned": false
   },
   {
@@ -327,7 +327,7 @@
     "ThumbnailPath": "alchlcsystm.recolors.png",
     "PublishTime": 1704204000,
     "DownloadCount": 0,
-    "Outdated": false,
+    "Outdated": true,
     "Banned": false
   },
   {
@@ -357,7 +357,7 @@
     "ThumbnailPath": "dum.oldui.png",
     "PublishTime": 1705705200,
     "DownloadCount": 0,
-    "Outdated": false,
+    "Outdated": true,
     "Banned": false
   },
   {
@@ -387,7 +387,7 @@
     "ThumbnailPath": "maxdistructo.AutoRejoinRanked.png",
     "PublishTime": 1705705200,
     "DownloadCount": 0,
-    "Outdated": false,
+    "Outdated": true,
     "Banned": false
   },
   {
@@ -402,7 +402,7 @@
     "ThumbnailPath": "alchlcsystm.fixes.png",
     "PublishTime": 1704204000,
     "DownloadCount": 0,
-    "Outdated": false,
+    "Outdated": true,
     "Banned": false
   },
   {
@@ -417,7 +417,7 @@
     "ThumbnailPath": "JAN.rolementionsmanager.png",
     "PublishTime": 1705705200,
     "DownloadCount": 0,
-    "Outdated": false,
+    "Outdated": true,
     "Banned": false
   }
 ]
