@@ -37,12 +37,12 @@
     ],
     "Description": "Allows for the easy randomization of only certain cosmetics through the favorite system, just right-click them in the Personalize page. Also allowing to only randomize the categories you want.",
     "HarmonyID": "JAN.favoritenrandom",
-    "Version": "1.0.2",
+    "Version": "1.0.3",
     "DLLName": "FavoriteNRandomCosmetics2.dll",
     "ThumbnailPath": "JAN.favoritenrandom.png",
-    "PublishTime": 1702240560,
+    "PublishTime": 1706720400,
     "DownloadCount": 0,
-    "Outdated": true,
+    "Outdated": false,
     "Banned": false
   },
   {
@@ -113,12 +113,12 @@
     ],
     "Description": "This mod allows for the customization of all music and sounds of the game. Join <color=blue>https://discord.gg/ht8ttc3R8E</color> for a explanation on how soundpacks work.",
     "HarmonyID": "JAN.soundpacks",
-    "Version": "2.0.3",
+    "Version": "2.1.0",
     "DLLName": "SoundpackModTheSequel.dll",
     "ThumbnailPath": "JAN.soundpacks.png",
-    "PublishTime": 1702382880,
+    "PublishTime": 1706720400,
     "DownloadCount": 0,
-    "Outdated": true,
+    "Outdated": false,
     "Banned": false
   },
   {
@@ -234,10 +234,10 @@
     ],
     "Description": "For when being a good sport is too hard.",
     "HarmonyID": "voidbehemoth.autogg",
-    "Version": "1.1.2",
+    "Version": "1.2.0",
     "DLLName": "AutoGG.dll",
     "ThumbnailPath": "voidbehemoth.autogg.png",
-    "PublishTime": 1701838800,
+    "PublishTime": 1706720400,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
@@ -399,12 +399,12 @@
     ],
     "Description": "Automatically rejoins the Ranked queue after you are done with a Ranked Game",
     "HarmonyID": "maxdistructo.AutoRejoinRanked",
-    "Version": "1.1.0",
+    "Version": "1.2.0",
     "DLLName": "AutoRejoinRanked.dll",
     "ThumbnailPath": "maxdistructo.AutoRejoinRanked.png",
-    "PublishTime": 1705705200,
+    "PublishTime": 1706720400,
     "DownloadCount": 0,
-    "Outdated": true,
+    "Outdated": false,
     "Banned": false
   },
   {
@@ -429,12 +429,12 @@
     ],
     "Description": "Allows you to modify the order and the acronyms of the role mentions of the game (and the keywords too if you feel like it). For support join <color=blue>https://discord.gg/ht8ttc3R8E</color>",
     "HarmonyID": "JAN.rolementionsmanager",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "DLLName": "RoleMentionsManager.dll",
     "ThumbnailPath": "JAN.rolementionsmanager.png",
-    "PublishTime": 1705705200,
+    "PublishTime": 1706720400,
     "DownloadCount": 0,
-    "Outdated": true,
+    "Outdated": false,
     "Banned": false
   }
 ]
