@@ -481,5 +481,20 @@
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
+  },
+  {
+    "Name": "Webcam Integration",
+    "Authors": [
+      "Curtis"
+    ],
+    "Description": "Allows you to display your webcam in your rolecard",
+    "HarmonyID": "curtis.webcam.integration",
+    "Version": "1.0.0",
+    "DLLName": "WebcamIntegration.dll",
+    "ThumbnailPath": "curtis.webcam.integration.png",
+    "PublishTime": 1707174000,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
   }
 ]
