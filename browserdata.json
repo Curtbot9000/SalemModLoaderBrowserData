@@ -11,7 +11,7 @@
     "DLLName": "BetterTOS2.dll",
     "ThumbnailPath": "curtis.tuba.better.tos2.png",
     "PublishTime": 1706893980,
-    "DownloadCount": 0,
+    "DownloadCount": 2300,
     "Outdated": false,
     "Banned": false
   },
@@ -399,10 +399,10 @@
     ],
     "Description": "Automatically rejoins the Ranked queue after you are done with a Ranked Game",
     "HarmonyID": "maxdistructo.AutoRejoinRanked",
-    "Version": "1.2.0",
+    "Version": "1.2.1",
     "DLLName": "AutoRejoinRanked.dll",
     "ThumbnailPath": "maxdistructo.AutoRejoinRanked.png",
-    "PublishTime": 1706720400,
+    "PublishTime": 1707174000,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
@@ -435,6 +435,51 @@
     "PublishTime": 1706720400,
     "DownloadCount": 0,
     "Outdated": true,
+    "Banned": false
+  },
+  {
+    "Name": "Auto Player Notes",
+    "Authors": [
+      "Piggered"
+    ],
+    "Description": "Automatically writes down some confirmed roles in the Player Notes",
+    "HarmonyID": "me.piggered.tos2.autoplayernotes",
+    "Version": "1.0.0",
+    "DLLName": "AutoPlayerNotes.dll",
+    "ThumbnailPath": "me.piggered.tos2.autoplayernotes.png",
+    "PublishTime": 1707174000,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "CommandLib",
+    "Authors": [
+      "VoidBehemoth"
+    ],
+    "Description": "Easily create commands.",
+    "HarmonyID": "voidbehemoth.commandlib",
+    "Version": "1.0.0",
+    "DLLName": "CommandLib.dll",
+    "ThumbnailPath": "voidbehemoth.commandlib.png",
+    "PublishTime": 1707174000,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "/slander",
+    "Authors": [
+      "VoidBehemoth"
+    ],
+    "Description": "It takes a poet to express true anger.",
+    "HarmonyID": "voidbehemoth.slashslander",
+    "Version": "1.0.0",
+    "DLLName": "SlashSlander.dll",
+    "ThumbnailPath": "voidbehemoth.slashslander.png",
+    "PublishTime": 1707174000,
+    "DownloadCount": 0,
+    "Outdated": false,
     "Banned": false
   }
 ]
