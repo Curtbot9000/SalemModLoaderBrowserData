@@ -339,10 +339,10 @@
     ],
     "Description": "The customisation mod for most in-game icons! Credits to MysticMismagius for the icon and Pat for coding help!",
     "HarmonyID": "alchlcsystm.recolors",
-    "Version": "1.2.1",
+    "Version": "2.0.0",
     "DLLName": "IconPacks.dll",
     "ThumbnailPath": "alchlcsystm.recolors.png",
-    "PublishTime": 1704204000,
+    "PublishTime": 1709065020,
     "DownloadCount": 0,
     "Outdated": true,
     "Banned": false
@@ -393,16 +393,16 @@
     "Banned": false
   },
   {
-    "Name": "AutoRejoinRanked",
+    "Name": "AutoRequeue",
     "Authors": [
       "MaxDistructo"
     ],
     "Description": "Automatically rejoins the Ranked queue after you are done with a Ranked Game",
     "HarmonyID": "maxdistructo.AutoRejoinRanked",
-    "Version": "1.2.1",
-    "DLLName": "AutoRejoinRanked.dll",
+    "Version": "1.2.2",
+    "DLLName": "AutoRequeue.dll",
     "ThumbnailPath": "maxdistructo.AutoRejoinRanked.png",
-    "PublishTime": 1707174000,
+    "PublishTime": 1709065020,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
@@ -414,10 +414,10 @@
     ],
     "Description": "The mod that fixes some UI related bugs",
     "HarmonyID": "alchlcsystm.fixes",
-    "Version": "1.0.0",
-    "DLLName": "0Fixes.dll",
+    "Version": "1.0.2",
+    "DLLName": "GeneralFixes.dll",
     "ThumbnailPath": "alchlcsystm.fixes.png",
-    "PublishTime": 1704204000,
+    "PublishTime": 1709065020,
     "DownloadCount": 0,
     "Outdated": true,
     "Banned": false
@@ -493,6 +493,36 @@
     "DLLName": "WebcamIntegration.dll",
     "ThumbnailPath": "curtis.webcam.integration.png",
     "PublishTime": 1707174000,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "RNG Commands",
+    "Authors": [
+      "Valtsu0"
+    ],
+    "Description": "No need to open your browser.",
+    "HarmonyID": "valtsu0.rngcommands",
+    "Version": "1.0.0",
+    "DLLName": "RNGCommands.dll",
+    "ThumbnailPath": "valtsu0.rngcommands.png",
+    "PublishTime": 1709065020,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
+    "Name": "Witchcraft",
+    "Authors": [
+      "AlchlcSystm"
+    ],
+    "Description": "A library of utility methods for developers!",
+    "HarmonyID": "alchlcsystm.witchcraft",
+    "Version": "1.0.0",
+    "DLLName": "Witchcraft.dll",
+    "ThumbnailPath": "alchlcsystm.witchcraft.png",
+    "PublishTime": 1709065020,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
