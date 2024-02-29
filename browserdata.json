@@ -519,12 +519,12 @@
     ],
     "Description": "A library of utility methods for developers!",
     "HarmonyID": "alchlcsystm.witchcraft",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "DLLName": "Witchcraft.dll",
     "ThumbnailPath": "alchlcsystm.witchcraft.png",
     "PublishTime": 1709065020,
     "DownloadCount": 0,
-    "Outdated": true,
+    "Outdated": false,
     "Banned": false
   }
 ]
