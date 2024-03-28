@@ -31,6 +31,21 @@
     "Banned": false
   },
   {
+    "Name": "Remove Delete Account Button",
+    "Authors": [
+      "JustAnotherNoob"
+    ],
+    "Description": "Removes the Delete Account button from Settings menu.",
+    "HarmonyID": "JAN.fuckdelete",
+    "Version": "1.0",
+    "DLLName": "DeleteMoreLikeDeleted.dll",
+    "ThumbnailPath": "JAN.fuckdelete.png",
+    "PublishTime": 1711654080,
+    "DownloadCount": 0,
+    "Outdated": false,
+    "Banned": false
+  },
+  {
     "Name": "Favorite n Random Cosmetics",
     "Authors": [
       "JustAnotherNoob"
