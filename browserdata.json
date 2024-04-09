@@ -173,10 +173,10 @@
     ],
     "Description": "Adds Fancy Chat to the game",
     "HarmonyID": "tubaantics.fancychat",
-    "Version": "1.4.1",
+    "Version": "1.4.2",
     "DLLName": "FancyChat.dll",
     "ThumbnailPath": "tubaantics.fancychat.jpg",
-    "PublishTime": 1712352540,
+    "PublishTime": 1712699040,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
