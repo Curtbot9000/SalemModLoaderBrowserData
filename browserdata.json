@@ -128,10 +128,10 @@
     ],
     "Description": "This mod allows for the customization of all music and sounds of the game. Join <color=blue>https://discord.gg/ht8ttc3R8E</color> for a explanation on how soundpacks work.",
     "HarmonyID": "JAN.soundpacks",
-    "Version": "2.1.0",
+    "Version": "3.0.0",
     "DLLName": "SoundpackModTheSequel.dll",
     "ThumbnailPath": "JAN.soundpacks.png",
-    "PublishTime": 1706720400,
+    "PublishTime": 1713432600,
     "DownloadCount": 0,
     "Outdated": false,
     "Banned": false
@@ -339,12 +339,12 @@
     ],
     "Description": "Enhancements and customizations to the of mentions of the game and their recognition.",
     "HarmonyID": "JAN.bettermentions",
-    "Version": "1.1.0",
+    "Version": "1.2.2",
     "DLLName": "BetterMentions.dll",
     "ThumbnailPath": "JAN.bettermentions.png",
-    "PublishTime": 1705705200,
+    "PublishTime": 1713432600,
     "DownloadCount": 0,
-    "Outdated": true,
+    "Outdated": false,
     "Banned": false
   },
   {
