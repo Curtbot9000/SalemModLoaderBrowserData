@@ -1,4 +1,3 @@
-<![CDATA[
 <color=yellow><size=130%><b><align=center>Welcome to Town of Salem 2</align></b></size></color>
 <align=center><b><size=110%>• • •</size></b></align>
 Hey Townies!
@@ -306,6 +305,3 @@ This patch marks the end of Season 4, bringing us into Season 5 off-season.
 • Fixed Shroud’s inconsistent priority when attacking directly after failing to shroud someone
 
 <align=center><b><size=110%>• • •</size></b></align>
-
-
-]]>
