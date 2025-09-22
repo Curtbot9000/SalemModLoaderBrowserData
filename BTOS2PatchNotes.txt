@@ -6,13 +6,13 @@ Welcome to BetterTOS2!
 
 For valuable tips on gameplay and roles, don't forget to check out the Game Guide located in the settings menu for both direct information as well as the Tutorial Video. Enjoy the adventure!
 
-Join us on Discord to report bugs, leave feedback, or just join in community conversation. Please remember to leave a review!
+Join us on Discord to report bugs, leave feedback, or just join in community conversation.
 
 Thank you and Happy Hanging!
 
 <align=center><b><size=110%>• • •</size></b></align>
-<color=yellow><b>Patch v1.5.05</b></color>
-Hey Townies! This brings in some small balance changes and bug fixes.
+<color=yellow><b>Patch v1.8</b></color>
+Hey Townies! Patch v1.8 brings 5 role reworks and 1 new role.
 <b>Role Updates:</b>
 • Soul Collector's Reap ability will now permanently frame a player as suspicious to a Sheriff, instead of conditionally doing it based on if the Soul Collector is or isn't solo
 • Berserker's detection clause has been removed from the Four Horsemen modifier
