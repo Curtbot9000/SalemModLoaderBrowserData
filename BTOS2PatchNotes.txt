@@ -1,307 +1,81 @@
-<color=yellow><size=130%><b><align=center>Welcome to Town of Salem 2</align></b></size></color>
+<color=yellow><size=130%><b><align=center>Welcome to BetterTOS2!</align></b></size></color>
 <align=center><b><size=110%>• • •</size></b></align>
 Hey Townies!
 
 Welcome to BetterTOS2!
 
-For valuable tips on gameplay and roles, don't forget to check out the Game Guide located in the settings menu for both direct information as well as the Tutorial Video. Enjoy the adventure!
-
-Join us on Discord to report bugs, leave feedback, or just join in community conversation.
+Join us on Discord to report bugs, leave feedback, or just join in community conversation. discord.gg/bettertos2
 
 Thank you and Happy Hanging!
 
 <align=center><b><size=110%>• • •</size></b></align>
 <color=yellow><b>Patch v1.8</b></color>
-Hey Townies! Patch v1.8 brings 5 role reworks and 1 new role.
-<b>Role Updates:</b>
-• Soul Collector's Reap ability will now permanently frame a player as suspicious to a Sheriff, instead of conditionally doing it based on if the Soul Collector is or isn't solo
-• Berserker's detection clause has been removed from the Four Horsemen modifier
-• Apocalypse roles will now always appear unsuspicious to a Sheriff while solo
-• Wandering Souls will now appear suspicious to a Sheriff
-• Executioner can no have a Catalyst as a target
-• Cursed Soul now has a 100% chance of swapping with their target if the Cursed Soul is not on the Town or Wandering Souls faction
-• Wandering Souls members now gain Invincible Defense when the final Cursed Soul dies
-• Pirate can no longer start with a Cursed Soul Landlubber
+Hey Townies! Patch v1.8 introduces a brand new role, the Pacifist, alongside major reworks, balance changes, and bug fixes.
 
-<b>General Changes:</b>
-• Made several improvements to backend reporting tools
+<b>New Role:</b>
+• Pacifist – The Pacifist can Rally Town members into starting a Protest. If they correctly guess all living Town members, a Protest begins the next day. If the Pacifist survives the Protest, their team wins the game.
 
-<b>Bug Fixes:</b>
-• A framed Pirate will now give the "Sheriff find a Pirate suspicious" achievement
-• Roles can be unbanned in Custom
-• TAA can now be joined directly from a party when in rotation
-• Notepad buttons now work correctly on mobile
-• Necronomicon Passing votes will now correctly count following Grace Period
-• Trickster can now absorb coven attacks sent from another Trickster
-• Mythic Scrolls can now be purchased on Mobile
-• The Chat Opacity setting is now available on Mobile
-• Roledeck previews will now appear on the home menu
-• A notification icon will no longer be appended to gamemodes in the Party/Endgame selection menus
+<b>Improvements:</b>
+• Added “Sent from Discord” as a keyword
+• Socialite has been added, taking over the old Crusader’s kit
+• The Cursed Soul faction has been renamed to Wandering Souls
+• Dreamweaver UI received technical improvements for easier use
+• Casual Queue Lobby now displays the total number of players in queue
+• Patch Notes can now be viewed on the login screen
 
-<align=center><b><size=110%>• • •</size></b></align>
-<color=yellow><b>Patch v1.5.04</b></color>
-<b>Ranked:</b>
-• Ranked Season 5 has begun, the roledeck can be viewed in-game.
-• Ranked Playtest has been disabled.
+<b>Balance Changes:</b>
 
-<b>Changes:</b>
-• Added a new "Chat Opacity" setting, allowing you to tweak the visibility of your chatbox
+• Feelin’ Lucky
+– Reveal Role token now has a 50:50 chance between your role and a random other role
 
-<b>Cosmetics:</b>
-• Mythic Scrolls are now available in the shop for 50TP each
-• Added the Glinda Character to the shop for 1040TP
-• Added the following pets to the shop for 780TP each
- - Woolums Pet
- - Necronomicon Pet
- - Grimmie
- - Cthulhu
- - Chameleon
- - Gryphon
-• Added the following skins to the shop for 780TP each
- - Clef
- - Piper
- - Archibald
- - Lauf
- - Giles Quarry
- - Gorgon
- - Ivy
- - Poisoner
- - Sun Wukong
- - Duchess
- - McBrains
- - Joao
- - Sister
- - Tabitha
- - Midknight
- - Radu
- - Blueflame
-• The Legendary skin Helsing has been added to the Cauldron as an exclusive reward
- 
-<b>Bug Fixes:</b>
-• Indoctrinated Prosecutor will no longer attack the player they previously Prosecuted at night
-• Fixed Vampire/Cursed Soul not appearing in the Enchanter UI
-• Jailor will now always Execute when controlled by a Witch
-• The Chat Name Color setting will now work correctly on all platforms
+• Seer
+– Now compares two players’ factions again
+– Seer instead learns if the “energy” between them is high or low
+– Seers don’t know at first whether high/low means friends or enemies
+– Different Seers may see different energies for the same pair
 
-<align=center><b><size=110%>• • •</size></b></align>
-<color=yellow><b>Patch v1.5.03</b></color>
-<b>Changes:</b>
-• Added a preview menu for Casual Playlists in the home menu
-• A notification icon will now show on Casual Playlists when their rotation changes
-• You can now see details on a mode's special data while hovering over them (When they expire, Double TP etc)
-• Coven can now target Town Traitor without the Necronomicon
-• TT Deputy, Prosecutor and Vigilante can now target Coven members
-• Grace Period now has a night 1 notification to let you know it is active
+• Berserker
+– Starts with a Basic Attack
+– Gains Powerful Attack after first successful kill
+– Can attack every night except Night 1 (unless in Pandora modes with Necronomicon)
+– Now appears Suspicious to Sheriff
+
+• Coroner
+– Can Examine every night
+– Examined players are marked as Suspects
+– At the end of the night, for each Autopsied player, if a Suspect is their killer you will learn them
+
+• Crusader
+– Fortify now protects against direct attacks (similar to Bodyguard/Trapper/Trickster)
+– Wounds all direct attackers upon saving someone
+– If an attacker is already Wounded, they instead take a Basic Attack
+– If Crusader visits an already Wounded player, they deal a Basic Attack to them
+– Crusaders do not attack players Wounded by other Crusaders
+
+• Illusionist
+– Removed Mass Hysteria
+– Illusioned teammates no longer bypass Bodyguards/Trappers
+– Illusions no longer affect Deputy shots
+– Added new abilities:
+– Facade (Passive): Choose a role to appear as upon death
+– Phantasm (1 use): Make your entire team look innocent for the night (excludes Town Traitors)
+
+• Trapper
+– Trap trigger information is now randomized instead of in player order
+
+• Inquisitor
+– Cursed Soul can no longer become a Heretic
+
+• Cursed Soul
+– Has a 100% chance to swap with non-Town, non-CS targets
+– Gains Invincible Defense once the final CS dies
 
 <b>Bug Fixes:</b>
-• Poisoner no longer bypasses Smog and Party when roleblocking
-• Coven Leader can no longer see if their retrain target would have survived a Basic Attack
-• Coven Leader can no longer retrain back into a player's original role after retraining them once
-• Roles with special targeting menus now work correctly while overcharged
-• Roles with dual targeting for different abilities now work correctly while overcharged
-• Monarch will no longer ignore roleblocks and UO while knighting
-• Fixed various role interactions Overcharge
-• Cultist's Indoctrination will no longer fail during trials
-
-<align=center><b><size=110%>• • •</size></b></align>
-<color=yellow><b>Patch v1.5.02</b></color>
-• Fixed some IOS-specific issues
-
-<align=center><b><size=110%>• • •</size></b></align>
-<color=yellow><b>Patch v1.5.01</b></color>
-Hey Townies! This patch addresses several new bugs introduced in Season 5. We are working hard to resolve everything and to bring in some new QOL features.
-
-Find a bug? Please join us on Discord and report it directly to us so it can be patched ASAP.
-
-<b>Changes:</b>
-• All Protective abilities are now disabled during the first night of Grace Period
-• Admirer will now reroll their obsession if they die on the same night
-• Updated Voodoo Master's shortname to "VM"
-• Made various improvements to the Game Guide
-
-<b>Bug Fixes:</b>
-• Jailor will no longer visit their jailed target
-• Cleric's target message has been fixed
-• Jailor can now execute Apocalyspe roles
-• Shroud will no longer auto-draw in a 1v1
-• Ritualist can no longer guess n1 in Grace Period
-• Ritualist's "You guessed correctly" message now gives your target's player number instead of your own
-• Prosecutor will no longer lose ability charges when prosecuting a non-town townie
-• Jailor will no longer attack players with the Necronomicon when controlled
-• The All Outliers modifier will now correctly spawn all outliers
-• Crusader will no longer attack visitors when roleblocked
-• Stoned and Hidden roles will no longer expose the original faction
-• The Consigliere skin's animation errors have been resolved
-• The Foam Trim and Floor now use their intended textures
-• The Upper Class Trim no longer uses the Greek Trim's textures
-• The game will no longer lag heavily when there are too many mentions in a Last Will, Death Note or Notepad
-• Jailor, Admirer, Coroner and Socialite's daytime UI will no longer reset after each playphase
-• A Wandering Souls Cultist's indoctrinated player will now win while on the Wandering Souls faction
-• The keyword "GUI_KEYWORD_BITE" has been removed
-• Jailor will no longer has a duplicated ability in the Game Guide
-• Fixed various typos in the Game Guide
-
-
-<align=center><b><size=110%>• • •</size></b></align>
-<color=yellow><b>Patch v1.5.00</b></color>
-Hey Townies! Welcome to Season 5! 
-
-This patch marks the end of Season 4, bringing us into Season 5 off-season.
-
-<b>New Sub-Alignment: Outlier</b>
-• Outlier is a brand new Sub-Alignment for Town, Coven, and Neutral. Outlier roles will not be able to spawn naturally in games, they will need to be directly confirmed in a roledeck.
-
-<b>New Roles:</b>
-• New Sub-Alignment: Outlier
- - Outlier is a brand new Sub-Alignment for Town, Coven, and Neutral. Outlier roles will not be able to spawn naturally in games, they will need to be directly confirmed in a roledeck.
-• Catalyst (Town Outlier)
- - Catalyst has the ability to Overcharge a player at night, this allows that player to use their ability twice during the following day or night
-• Cultist (Coven Outlier)
- - Cultist has the ability to Convert a member of the Town onto the Coven faction
- - Unlike a Town Traitor, this converted Townie will be able to wield the Necronomicon alongside their usual abilities
-• Pilgrim (Town Outlier)
- - Pilgrim is a standard Townie with no abilities
-• Covenite (Coven Outlier)
- - Covenite is a standard Coven member with no abilities, they can wield the Necronomicon to kill at night
-
-<b>Game Updates:</b>
-• New Mode: Casual
- - In Casual, all players in the lobby will vote for which Roledeck they would like to play from a curated pool, the Roledeck with the most votes wins
- - The pool of Roledecks in Casual will be updated frequently
-• Town Traitor has been removed as a standalone mode
-• Ranked Practice now features the same Roledeck voting system as Casual. A variety of test lists will be active allowing us to collect data on balance, and which versions of Ranked players are most interested in
-• Every 2 weeks All Any will be replaced for the weekend with an alternative All Any mode. Stay tuned to see what they are!
-• New Roledeck Mechanic: Dual Buckets
- - You can now add 2 roles/role buckets into the same slot of a Roledeck, creating a Dual Bucket
- - An example of this would be a "Neutral Apocalypse/Neutral Killing" Dual Bucket, allowing any roles from either to spawn from the same slot
-• New Modifier: Election
- - Before Trial begins in a day, the town will be able to elect a player as a "Sovereign"
- - The result of the election is based on plurality instead of majority, meaning the player with the most votes by the end of the election will win even if they don't have majority
- - The election will only occur if there is not a currently alive Sovereign
- - The Sovereign will gain +2 votes. If they are a member of the Town faction they will no longer be able to use their abilities, if they are not their abilities will now be astral
-• New Modifier: Grace Period
- - All abilities that can kill are disabled during the first night
- - The Necronomicon will not appear until the start of the second day
-• New Modifier: All Outliers
- - Outlier roles can now spawn in all "Random" buckets (RT, RC, RN and Any)
-
-<b>Cosmetics:</b>
-• New Bundle: Mafia Pack [20% Off Until July 10th]
- - Mafia Map
- - Consigliere Skin (Macy)
- - Godfather Skin (Samuel)
- - Mafioso Skin (Francisco)
- - Isabella Skin (Petra)
- - Lion Cub Pet
- - Doberman Pet
- - My Little Friend Pet
- - Marble Row Pathway
- - Street Lamp Lawn Decoration
- - Horse Fountain Lawn Decoration
- - Godfather’s Mansion House
- - Old Money Aura
- - Card Spread Aura
- - Bang Bang! Death Animation
- - Dead Emoji
- - Gangster Emoji
- - Investigate Emoji
- - Cash Emoji
-• New Bundle: Mafia Interior [1300 TP]
- - Chandelier Center Decoration
- - Isabella’s Portrait Wall Decoration
- - Minibar Corner Decoration
- - Upper Class Floor
- - Upper Class Walls
- - Upper Class Trim
-• New Skins: [780 TP Each]
- - Card Dealer (Kande)
- - Janitor (Giles)
-• New Scrolls:
- - Catalyst Blessed and Cursed Scrolls
- - Covenite Blessed and Cursed Scrolls
- - Cultist Blessed and Cursed Scrolls
- - Cursed Soul Blessed and Cursed Scrolls
- - Pilgrim Blessed and Cursed Scrolls
- - Vampire Blessed and Cursed Scrolls
-
-<b>Role Updates:</b>
-• Admirer has been overhauled
- - At the start of the game, a random Townie will be marked as your Obsession. You will learn their sub-alignment, but not their identity
- - You may Admire another player at night to see if they are your Obsession, if they are - your Admire ability will be replaced with a Care ability
- - When Caring for your Obsession at night, a Barrier will be placed on both you and them. This ability has 2 charges
- - If your Obsession dies before you find them, they will be rerolled. If they die after they find them you will be left without an Obsession
- - During the day you may Bestow another player. This will permanently grant them Astral Visits, Roleblock Immunity, and Control Immunity. This ability has 2 charges
-• Vampire has been overhauled
- - Vampire is now a Neutral Outlier, and is also Unique
- - During the night you may choose to Drain another player, dealing a Basic Attack to them
- - During the night you may choose to Convert another player. If they are a member of the Town faction they will be converted to the Vampire faction, keeping their original role. If they are not, you will instead Drain them. This ability has 3 charges
- - If you die, another member of the Vampire faction will become the new Vampire
- - While Solo, you will have Basic Defence and Detection Immunity. You will lose these if you have at least one teammate
-• Cursed Soul has been overhauled
- - Cursed Soul will now only swap roles with their target, not factions
- - Cursed Soul's win condition is now to kill all players with the Cursed Soul role
- - Cursed Soul now shares a night chat with other members of the Wandering Souls faction
-• Astral Visits will now bypass Jail
-• Death Notes are now exclusive to Neutral Killing roles
-• Coven Killing roles are now mutually exclusive
- - Coven Leader will only be able to retrain a CPOW into a CK if there isn't already one in the game
-• Ritualist's Blood Ritual ability has been reduced to 2 charges
-• Camouflage has been removed
-• Mayor will no longer gain votes during a TT Hunt
-• Monarch will no longer grant vote immunity
-• Potion Master can now target all living players with their Heal Potion
-• War now bypasses Jail
-• Poisoner can now Smog other Coven members, and will know if they have blocked at least one player
-• Socialite has been reworked:
- - Players who are blocked by Socialite's Party will no longer be added to the Guest List
- - Socialite will now only learn if they have rejected at least one person, rather than learning who they are
- - Socialite can no longer Party on the same player two nights in a row
-• Added "Factional Defense", a player's natural defense is now derived from the faction they are on rather than their base role
- - The Town and Coven factions have no defense
- - The Arsonist, Serial Killer, Shroud, and Werewolf factions have basic defense
- - The Doomsayer, Executioner, Jester, Pirate, and Wandering Souls factions have basic defense until day 3
- - The Apocalypse and Vampire factions have basic defence if there is only one living member
-
-<b>General Changes:</b>
-• Fully Overhauled the Game Guide
- - A 6 lesson visual tutorial on the game has been added
- - The Info guide has been heavily expanded/updated
- - The Roles guide has received visual upgrades
-- The Keywords guide now lets you filter by keyword type
-• Cursed Soul now has a Silhouette
-• <style=CursedSoulColor>Cursed Soul</style> and <style=VampireColor>Vampire</style> have new faction colours.
-• Poisoner's Smog UI has been updated to make it more clear that you cannot attack with the Necromonicon while using it
-• Role Icons have been added to various interfaces such as the in-game rolelist and bucket display lists
-• The Roledeck Builder UI now shows the total modifiers in a list
-• Altered vote weights will now show as (+Y) and (-Y) instead of (xY) and (x-Y)
-• All feedback messages that specified "Your target" will now directly reference your target by name.
- - "Sydney seems suspicious!"
- - "You sense that Curtis and Tuba seem to be enemies!"
-• Added more abbreviations for quickly mentioning roles and buckets
-• Updated Witch's "You cannot control someone two nights in a row" message to accommodate Control Immune roles
-• Cinematics can now have special variations depending on a player's map
-- Check out the new Mafia Map to see this in action!
-• Added around 200 new lobby icons to Custom
-• Added "Special Voting" music that plays during Casual Voting, Election and Tribunal
-• Updated various messages to make it clearer that you are in Tribunal instead of regular voting
-• The "Selection Music" soundtrack is no longer cut off early
-• Role Blurbs have been added to the Role Reveal cinematic
-• Dead players are no longer announced as disconnected
-• The Roledeck ban and modifier limits have been increased from 3 each to 10 each
-• Renamed “Floor Decorations” to “Center Decorations”
-
-<b>Bug Fixes:</b>
-• Silhouettes in the rolecard will no longer reset their animations when rolecard data is updated
-• Fixed various grammatical errors in the game
-• Fixed Deputy not getting the "Whoops?" achievement when missing their shot on an evil role with defense
-• Fixed Illusionist with the Necronomicon ignoring Socialite's Party
-• Fixed Illusionist not getting a message saying their target has defense while using the Necronomicon
-• Fixed Necromancer reanimating Jinx not working correctly
-• Fixed attackers not receiving the "Your target had defense" message from a Potion Master's heal potion
-• Fixed the Foam Trim and Floor’s texture being pure white
-• Fixed various roles occasionally bypassing Unknown Obstacle
-• Fixed Trickster not showing “Murder” when Unleashing
-• Fixed bugs relating to the friends menu
-• Fixed Shroud’s inconsistent priority when attacking directly after failing to shroud someone
+• Fixed Amnesiac not prioritizing Catalyst over non-unique roles
+• Fixed Plaguebearer seeing duplicate Smoked messages when visiting a Smokebombed player
+• Fixed Starspawn seeing Lookouts twice when Starbounding them
+• Fixed Pirate ignoring Grace Period
+• Fixed bugs with auto draw detector
+• Fixed visual bugs in Dreamweaver UI when adding players to messages
 
 <align=center><b><size=110%>• • •</size></b></align>
