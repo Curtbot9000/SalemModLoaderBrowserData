@@ -9,6 +9,25 @@ Join us on Discord to report bugs, leave feedback, or just join in community con
 Thank you and Happy Hanging!
 
 <align=center><b><size=110%>• • •</size></b></align>
+<color=yellow><b>Patch v1.8.02</b></color>
+Hey Townies! Patch v1.8.02 fixes an incompatibility problem within the latest vanilla Town of Salem 2 update.
+
+<b>Improvements:</b>
+• Cosmetics are now fully synced with the vanilla servers. You can use all of the cosmetics you own in BetterTOS2 games as well.
+
+<align=center><b><size=110%>• • •</size></b></align>
+
+<align=center><b><size=110%>• • •</size></b></align>
+<color=yellow><b>Patch v1.8.01</b></color>
+Hey Townies! Patch v1.8.01 fixes incompatibility problems caused by the backend migration that happened in vanilla.
+
+<b>Bug Fixes:</b>
+• Fixed Socialite getting "a Bodyguard attacked you but a Barrier saved you!" message upon adding someone to Guest List
+• Fixed chat exploits allowing new lines to be abused
+
+<align=center><b><size=110%>• • •</size></b></align>
+
+<align=center><b><size=110%>• • •</size></b></align>
 <color=yellow><b>Patch v1.8</b></color>
 Hey Townies! Patch v1.8 introduces a brand new role, the Pacifist, alongside major reworks, balance changes, and bug fixes.
 
